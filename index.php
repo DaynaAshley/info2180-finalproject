@@ -16,7 +16,6 @@ session_start();
       <h1><i class="fa fa-bug"></i>BugMe Issue Tracker</h1>
     </header>  
     
-
 <main>
   <h1>User Login</h1>
     <label id="em">Email:</label>
