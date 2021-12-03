@@ -27,7 +27,7 @@ session_start();
     <i class="fa fa-eye" id="see"></i>
     <div class="password"></div>
     
-<button class="login">Login</button>
+    <button class="login">Login</button>
 </main>
 </body>
 </html>
