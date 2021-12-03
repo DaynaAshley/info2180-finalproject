@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+    font-size: 18px;
+}
+
+header {
+    background-color: black;
+    font-size: 12px;
+    padding: 2px;
+    color: white;
+}
+
+header i {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+nav {
+    display: grid;
+    float: left;
+    background-color: lightgrey;
+    list-style: none;
+    height: 520px;
+    font-size: 30px;
+   
+    padding-right: 100px;
+    padding-left: 20px;
+}
+
+i {
+    padding-right: 5px;
+}
+
+.hbtn,
+.abtn,
+.nbtn,
+.lbtn {
+    border: 0px;
+    background-color: lightgray;
+}
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.issue {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+
+
+.descr {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+
+
+.assign {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+
+
+.type {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+
+
+label {
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+main {
+    margin:0;
+}
+
+button {
+    margin-left: 0px;
+
+}
+
+input {
+    background-color: #EEEEEE;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 45%;
+}
+
+.firstname,.lastname,.password,.email{
+    padding: 10px;
+    color: red;
+    font-size: 16px;
+}
+
+
+main {
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.sbtn{
+    padding-left:50px ;
+    padding-right: 50px;
+    padding-top:10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: cornflowerblue;
+}
+
+#fields{
+    padding-left: 260px;
+}

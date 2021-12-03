@@ -1,0 +1,142 @@
+header {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.issue {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+
+
+.descr {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+
+.assign {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+
+
+.type {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.type select {
+    margin-top: 5px;
+    padding: 8px;
+    background-color: #EEEEEE;
+}
+
+.prior {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.prior select {
+    margin-top: 5px;
+    padding: 8px;
+    background-color: #EEEEEE;
+}
+
+body {
+    margin: 0;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+#submit {
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 30px;
+}
+
+nav {
+    display: grid;
+    float: left;
+    background-color: lightgrey;
+    list-style: none;
+    height: 700px;
+    font-size: 30px;
+   
+    padding-right: 100px;
+    padding-left: 20px;
+}
+
+main{
+    margin: 0;
+}
+
+i {
+    padding-right: 10px;
+}
+
+.sidebar button {
+    padding: 10px;
+    background-color: lightgray;
+    border: none;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+
+
+input {
+    background-color: #EEEEEE;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 92%;
+}
+
+
+#fields{
+    padding-left:250px;
+}
+
+label{
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+#description{
+    padding-bottom: 60px;
+}
+
+select{
+    border-radius: 5px;
+}
+
+#name{
+    width: 100%;
+    background-color: #EEEEEE;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
